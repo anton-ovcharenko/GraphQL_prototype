@@ -13,3 +13,7 @@ http://localhost:8080/graphiql
     }
   }
 }
+
+Links:
+https://www.pluralsight.com/guides/java-and-j2ee/building-a-graphql-server-with-spring-boot
+http://graphql.org/learn/
