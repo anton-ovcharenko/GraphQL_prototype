@@ -1,3 +1,10 @@
+#Intellij
+**/*.settings/
+**/*.project
+**/*.idea/
+**/*.iml
+.idea/
+
 # Compiled class file
 *.class
 
